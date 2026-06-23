@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ghsxtbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Ghxst_JOYBOY23-xreV.aternos.me",
+    "port": 19507,
     "version": "",
     "try-creative": false
   },
